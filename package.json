@@ -10,5 +10,8 @@
   "keywords": [],
   "author": "Sandeep kumar",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
