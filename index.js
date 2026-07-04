@@ -11,6 +11,6 @@ app.get('/twitter',(req,res)=>{
 app.get('/login',(req,res)=>{
     res.send('<h1>Please login at my site</h1>')
 })
-app.listen(process.env.PORT, () => {
+app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
